@@ -7,11 +7,7 @@ public class ArraySiswa {
         int arrNilai2 [] = new int[4]; // Deklarasi array dengan ukuran 4
         int arrNilai3 [] = {70,60,30,40,50,63,70,100,100}; //Deklarasi
         
-        //Cara memberikan nilai elemen
-        arrNilai2[0]= 20;
-        arrNilai2[1] = 100;
-        arrNilai2[2] = 70;
-        arrNilai2[3] = 80;
+        
      
         arrNilai2[0] = arrNilai2[1] + arrNilai2[3];
         
